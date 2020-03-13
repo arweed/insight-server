@@ -4,5 +4,17 @@
 out
 gen
 
+# Eclipse
+bin/
+.settings/
+.classpath
+.project
+
 #Maven
 target/
+
+#TomEE
+.distribution
+
+#Other
+keys/
